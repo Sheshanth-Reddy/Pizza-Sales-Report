@@ -3,7 +3,8 @@
 
 I'm thrilled to share one of my data analysis project that I worked on as part of my journey into the world of data analytics.📉
 
-🍕 i had the opportunity to dive into the fascinating realm of pizza sales data 🍕📊. Using tools like Power BI, I learned how to extract, clean, and analyze data to drive meaningful insights. 📈 Here are some of the highlights of what I discovered Total Revenue: We calculated the total revenue, providing a comprehensive view of the business's financial performance.
+🍕 i had the opportunity to dive into the fascinating realm of pizza sales data 🍕📊. Using tools like Power BI, I learned how to extract, clean, and analyze data to drive meaningful insights.
+📈 Here are some of the highlights of what I discovered Total Revenue: We calculated the total revenue, providing a comprehensive view of the business's financial performance.
 Average Order Value: Analyzing this metric allowed us to understand customer spending patterns.
 Total Pizzas Sold: We determined the total quantity of pizza sold, giving insights into product demand.
 Total Orders: Tracking the number of unique orders revealed customer engagement.
