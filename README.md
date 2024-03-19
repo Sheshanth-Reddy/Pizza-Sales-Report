@@ -1,5 +1,4 @@
 # PIZZA-SALES-REPORT
-#Pizza Sales Report
 
 I'm thrilled to share one of my data analysis project that I worked on as part of my journey into the world of data analytics.📉
 
